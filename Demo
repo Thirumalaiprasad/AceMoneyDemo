@@ -5,6 +5,11 @@ public void add()
 {
  System.Out.Println("This is instance method");
  }
+ 
+ public void sub()
+ {
+ System.Out.Println("This is instance sub method");
+ }
 
 public static void main(String[] args)
 {
