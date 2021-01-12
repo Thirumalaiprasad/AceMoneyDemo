@@ -1,9 +1,15 @@
 public class Sample
 {
 
+public void add()
+{
+ System.Out.Println("This is instance method");
+ }
+
 public static void main(String[] args)
 {
 
+System.Out.Println("Git Hub tutorial");
 
 }
 
